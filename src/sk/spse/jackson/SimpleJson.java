@@ -23,7 +23,7 @@ public class SimpleJson {
         List<SimpleOsoba> osoby = mapper.readValue(
                 file,
                 // Tu povieme Jacksonu akú štruktúru má json,
-                // teda zoznam osôb - List v ktorm sú objekty SimpleOsoba
+                // teda zoznam osôb - List v ktorom sú objekty SimpleOsoba
                 new TypeReference<List<SimpleOsoba>>() {}
         );
 
