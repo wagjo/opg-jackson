@@ -1,0 +1,92 @@
+[
+  {
+    "meno": "Ján",
+    "priezvisko": "Novák",
+    "titul": "Ing.",
+    "pohlavie": "MUZ",
+    "datumNarodenia": "1985-03-12",
+    "ulica": "Hlavná 12",
+    "mesto": "Bratislava"
+  },
+  {
+    "meno": "Martina",
+    "priezvisko": "Kováčová",
+    "titul": null,
+    "pohlavie": "ZENA",
+    "datumNarodenia": "1992-07-25",
+    "ulica": "Školská 45",
+    "mesto": "Košice"
+  },
+  {
+    "meno": "Peter",
+    "priezvisko": "Horváth",
+    "titul": "Mgr.",
+    "pohlavie": "MUZ",
+    "datumNarodenia": "1978-11-04",
+    "ulica": "Dlhá 7",
+    "mesto": "Trnava"
+  },
+  {
+    "meno": "Lucia",
+    "priezvisko": "Tóthová",
+    "titul": null,
+    "pohlavie": "ZENA",
+    "datumNarodenia": "2000-01-18",
+    "ulica": "Mlynská 3",
+    "mesto": "Nitra"
+  },
+  {
+    "meno": "Marek",
+    "priezvisko": "Varga",
+    "titul": null,
+    "pohlavie": "MUZ",
+    "datumNarodenia": "1995-09-30",
+    "ulica": "Kvetná 18",
+    "mesto": "Žilina"
+  },
+  {
+    "meno": "Zuzana",
+    "priezvisko": "Miháliková",
+    "titul": "PhDr.",
+    "pohlavie": "ZENA",
+    "datumNarodenia": "1982-05-06",
+    "ulica": "Líščia 21",
+    "mesto": "Prešov"
+  },
+  {
+    "meno": "Tomáš",
+    "priezvisko": "Urban",
+    "titul": null,
+    "pohlavie": "MUZ",
+    "datumNarodenia": "1999-12-14",
+    "ulica": "Borovicová 6",
+    "mesto": "Banská Bystrica"
+  },
+  {
+    "meno": "Veronika",
+    "priezvisko": "Králiková",
+    "titul": "Bc.",
+    "pohlavie": "ZENA",
+    "datumNarodenia": "2001-08-02",
+    "ulica": "Lipová 10",
+    "mesto": "Trenčín"
+  },
+  {
+    "meno": "Andrej",
+    "priezvisko": "Bartoš",
+    "titul": "JUDr.",
+    "pohlavie": "MUZ",
+    "datumNarodenia": "1974-02-21",
+    "ulica": "Javorová 5",
+    "mesto": "Martin"
+  },
+  {
+    "meno": "Katarína",
+    "priezvisko": "Šimková",
+    "titul": null,
+    "pohlavie": "ZENA",
+    "datumNarodenia": "1988-10-09",
+    "ulica": "Dubová 8",
+    "mesto": "Piešťany"
+  }
+]
