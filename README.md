@@ -10,7 +10,7 @@ Repozitár obsahuje príklady k nasledovným hodinám:
 
 - Jednoduchý dátový model: `Pohlavie`, `SimpleOsoba`
 - Jednoduché použitie JSON a CSV formátu: `SimpleJson*`, `SimpleCSV*`
-- Dátový model s viacerými triedami: Pohlavie, `Adresa`, `Osoba`
+- Dátový model s viacerými triedami: `Pohlavie`, `Adresa`, `Osoba`
 - Použitie JSON a CSV s týmto dátovým modelom: `Json*`, `Csv*`
 
 # Copyright
