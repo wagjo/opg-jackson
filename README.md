@@ -5,6 +5,7 @@ Tento repozitár je súčasťou výukových materiálov k predmetu [Objektovo Or
 Repozitár obsahuje príklady k nasledovným hodinám:
 
 - Cvičenie 12: [JSON a CSV](https://oop.wagjo.com/cvicenie-3/c12-json)
+- Teória 17: [Zotriedenie](https://oop.wagjo.com/teoria-3/t17-zotriednenie)
 
 Štruktúra projektu (triedy s hviezdičkou majú metódu `main`)
 
@@ -12,6 +13,7 @@ Repozitár obsahuje príklady k nasledovným hodinám:
 - Jednoduché použitie JSON a CSV formátu: `SimpleJson*`, `SimpleCSV*`
 - Dátový model s viacerými triedami: `Pohlavie`, `Adresa`, `Osoba`
 - Použitie JSON a CSV s týmto dátovým modelom: `Json*`, `Csv*`
+- Príklady na zotriedenie: `...Comparator`, `Sorting*`
 
 # Copyright
 
