@@ -5,7 +5,7 @@ Tento repozitár je súčasťou výukových materiálov k predmetu [Objektovo Or
 Repozitár obsahuje príklady k nasledovným hodinám:
 
 - Cvičenie 12: [JSON a CSV](https://oop.wagjo.com/cvicenie-3/c12-json)
-- Teória 17: [Zotriedenie](https://oop.wagjo.com/teoria-3/t17-zotriednenie)
+- Teória 17: [Usporiadanie](https://oop.wagjo.com/teoria-3/t17-usporiadanie)
 
 Štruktúra projektu (triedy s hviezdičkou majú metódu `main`)
 

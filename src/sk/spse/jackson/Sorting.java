@@ -6,9 +6,7 @@ import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class Sorting {
     public static List<Osoba> fetchOsoby(File file) throws IOException {
@@ -54,6 +52,17 @@ public class Sorting {
     }
 
     public static void main(String[] args) {
+        // Vytvoríme pole čísel
+        Integer[] poleCisel = {4, 5, 2, 1, 3};
+
+        // Zoradime vzostupne a vypiseme
+        Arrays.sort(poleCisel, Comparator.reverseOrder());
+        System.out.println("Cisla vzostupne:");
+        for (Integer i : poleCisel) {
+            System.out.println(i);
+        }
+        System.out.println();
+
         // Vytvorime zoznam cisel
         List<Integer> cisla = new ArrayList<>();
         cisla.add(4);
