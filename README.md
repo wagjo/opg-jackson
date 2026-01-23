@@ -6,6 +6,7 @@ Repozitár obsahuje príklady k nasledovným hodinám:
 
 - Cvičenie 12: [JSON a CSV](https://oop.wagjo.com/cvicenie-3/c12-json)
 - Teória 17: [Usporiadanie](https://oop.wagjo.com/teoria-3/t17-usporiadanie)
+- Teória 18: [Records](https://oop.wagjo.com/teoria-3/t18-records)
 
 Štruktúra projektu (triedy s hviezdičkou majú metódu `main`)
 
@@ -14,6 +15,7 @@ Repozitár obsahuje príklady k nasledovným hodinám:
 - Dátový model s viacerými triedami: `Pohlavie`, `Adresa`, `Osoba`
 - Použitie JSON a CSV s týmto dátovým modelom: `Json*`, `Csv*`
 - Príklady na zotriedenie: `...Comparator`, `Sorting*`
+- Records: `Record...`
 
 # Copyright
 
